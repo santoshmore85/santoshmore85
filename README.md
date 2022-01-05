@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santoshmore85
-- 👀 I’m interested in ...array signal processing ,dirction arrival finidng
+- 👀 I’m interested in ...array signal processing ,DOA estimation , Sparse arrays design 
 - 🌱 I’m currently learning ...matlab
-- 💞️ I’m looking to collaborate on ...matlab , algebra for Massive MIMO
+- 💞️ I’m looking to collaborate on ...matlab , optimization 
 - 📫 How to reach me ...SANTOSHMORE439@GMAIL.COM
 
 <!---
